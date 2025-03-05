@@ -1,1 +1,1 @@
-## Maven 실습 With Pokemon API
+## Maven 실습 With pokeapi
